@@ -8,3 +8,5 @@ elif greeting.startswith("h"):
 
 else:
     print("$100")
+
+#Here I'm adding a comment as a test in GIT
