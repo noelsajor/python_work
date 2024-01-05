@@ -13,3 +13,5 @@ if camel_case.startswith("_"):
     snake_case = camel_case.replace("_", "")
 
 print()
+
+#now I'm adding a comment to this file just as a test about the functioning of git
